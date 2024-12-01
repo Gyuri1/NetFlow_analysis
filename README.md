@@ -21,5 +21,5 @@ Dash is running on http://127.0.0.1:8050/
  * Serving Flask app 'netflow-plotly1'
  * Debug mode: on
 
-
+![NetFlow analysis: ](netflow.png)
 
